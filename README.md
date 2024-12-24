@@ -1,4 +1,4 @@
-![Data Science Profile Image](https://github.com/Molya6491/Moldir_Sadyrbayeva/blob/main/picture1.jpg)
+![My Profile Picture](https://github.com/Molya6491/Moldir_Sadyrbayeva/blob/main/picture1.jpg)
 
 Welcome to My GitHub! 🌟
 # Hi, I’m Moldir! 👋 
